@@ -1,0 +1,9 @@
+C:\Users\bargeamr\Downloads\CRUD.ASPCore.Angular5.WebAPI.ADO-master\CRUD.ASPCore.Angular5.WebAPI.ADO-master\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.deps.json
+C:\Users\bargeamr\Downloads\CRUD.ASPCore.Angular5.WebAPI.ADO-master\CRUD.ASPCore.Angular5.WebAPI.ADO-master\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\bargeamr\Downloads\CRUD.ASPCore.Angular5.WebAPI.ADO-master\CRUD.ASPCore.Angular5.WebAPI.ADO-master\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+C:\Users\bargeamr\Downloads\CRUD.ASPCore.Angular5.WebAPI.ADO-master\CRUD.ASPCore.Angular5.WebAPI.ADO-master\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\bargeamr\Downloads\CRUD.ASPCore.Angular5.WebAPI.ADO-master\CRUD.ASPCore.Angular5.WebAPI.ADO-master\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\bargeamr\Downloads\CRUD.ASPCore.Angular5.WebAPI.ADO-master\CRUD.ASPCore.Angular5.WebAPI.ADO-master\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\bargeamr\Downloads\CRUD.ASPCore.Angular5.WebAPI.ADO-master\CRUD.ASPCore.Angular5.WebAPI.ADO-master\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\bargeamr\Downloads\CRUD.ASPCore.Angular5.WebAPI.ADO-master\CRUD.ASPCore.Angular5.WebAPI.ADO-master\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\bargeamr\Downloads\CRUD.ASPCore.Angular5.WebAPI.ADO-master\CRUD.ASPCore.Angular5.WebAPI.ADO-master\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.pdb
